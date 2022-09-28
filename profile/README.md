@@ -1,4 +1,4 @@
-![Logo](.assets/devoteam_rgb_mcloud-2.png)
+![Logo](https://github.com/Devoteam-M-Cloud/.github/blob/main/profile/.assets/devoteam_rgb_mcloud-2.png)
 
 # About Devoteam M Cloud
 
